@@ -22,7 +22,7 @@ Get Started with the Tutorial
 $ mkdir ~/Dev/djangocassandra
 $ cd ~/Dev/djangocassandra
 $ git clone https://github.com/codingforinnovations/Django-Cassandra.git .
-$ git reset ad8d9020e99de4c480cf3abfa8491611347efbfe --hard
+$ git reset 7ca24525df100b41439eb4309edfb588022a4d6d --hard
 $ git remote remove origin
 $ python3.9 -m virtualenv .
 $ source bin/activate
