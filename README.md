@@ -27,7 +27,6 @@ $ git remote remove origin
 $ python3.9 -m virtualenv .
 $ source bin/activate
 (djangocassandra) $ pip install -r dev.requirements.txt
-(djangocassandra) $ python manage.py runserver localhost:8000
 ```
 
 <div align="center">
